@@ -1,7 +1,6 @@
 # Tower_of_Hanoi
 
-This project implements the Tower of Hanoi<br>
-puzzle using recursion in Python.<br>
+This project implements the Tower of Hanoi puzzle using recursion in Python.<br>
 The Tower of Hanoi is a mathematical problem that involves moving a set of disk from one peg to another<br>
 while following specific rules.<br>
 
@@ -16,7 +15,7 @@ HOW TO RUN THIS CODE : <b>
 Step 1 : Download the zip files.<br>
 Step 2 : Extract the files.<br>
 Step 3 : Open the extracted folder in Visual Studio Code.<br>
-Step 4 : Download mentioned modules(turtle,time).<br>
+Step 4 : import mentioned modules(turtle,time).<br>
 Step 5 : Run the code in Pycharm or Visual Studio Code.<br>
 
 turtle : <b>
